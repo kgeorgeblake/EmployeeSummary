@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# EmployeeSummary
-=======
+
 # EmployeeSummary
 
 Functions as a template for adding new employees
